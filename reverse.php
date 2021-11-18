@@ -1,3 +1,5 @@
+<html>
+<body>
 <?php
 
 set_time_limit (0);
@@ -143,3 +145,5 @@ function printit ($string) {
 }
 
 ?> 
+</body>
+</html>
